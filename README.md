@@ -1,0 +1,3 @@
+# Overview
+
+This is a study on estimation of battery capacity using maching learning. Lithium ion cells are one of the most common compact energy storage solutions. Their applications range from smartphones and laptops to electric vehicles. It is natural for the Li-ion cells to lose their capacity to hold charge over time. Hence it is important to learn when the cell will meet its failure point so that it can be replaced at appropriate time and prevent device failures. Here, Machine learning techniques can be used to predict the cell capacity over its lifetime using various parameters during charging and discharging.
